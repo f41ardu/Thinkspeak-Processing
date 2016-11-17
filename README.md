@@ -3,7 +3,7 @@ Processing IoT data to ThinkSpeak
 
 /* 
  This library enables you to update your ThinkSpeak Channel from Processing
- either using the library from Rasperry PI or seriel communication from an Arduino
+ either using the library from Rasperry PI or using a serial connected Arduino
  Board. 
  
  Dont't forget to import the network class processing.net.* in your main program 
