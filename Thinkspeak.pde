@@ -47,7 +47,7 @@ class Thinkspeak {
 
     if (server.active() == true) { // If there's incoming data from the client...
       server.write(uri);  
-      server.write("Host: hash-n-bush.de\n\n"); // Be polite and say who we are
+      server.write("Host: blablbablba.bla\n\n"); // Be polite and say who we are
     } 
 
     server.stop();
