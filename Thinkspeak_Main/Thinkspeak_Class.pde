@@ -1,12 +1,12 @@
 /* 
-
+ 
  This library enables you to update your ThinkSpeak Channel from Processing
  either using the library from Rasperry PI or using a serial connected Arduino
  Board. 
-
+ 
  Dont't forget to import the network class processing.net.* in your main program 
  
- (c) f41_ardu 2016-11-16 / Version 1.1 
+ f41_ardu 2016-11-16 / Version 1.1 
  The library is free. Use at your own risk. 
  Just add a new tab name it Thinkspeak and copy this cod into it. 
  

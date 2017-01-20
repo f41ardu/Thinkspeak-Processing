@@ -8,9 +8,9 @@ Processing IoT data to ThinkSpeak
  
  Dont't forget to import the network class processing.net.* in your main program 
  
- (c) f41_ardu 2016-11-16 / Version 1.1 
+ f41_ardu 2016-11-16 / Version 1.1 
  The library is free. Use at your own risk. 
  
  */
  
- ::Try ::Fork ::Improve and share with us. 
+ ::Try ::Fork ::Improve and share. 
